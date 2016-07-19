@@ -37,7 +37,7 @@ h4 {
     line-height: 1.1;
 
 }
-,
+
 h5,
 h6 {
     text-transform: uppercase;
@@ -205,7 +205,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #white;
+    color: white;
 }
 
 @media(max-width:767px) {
